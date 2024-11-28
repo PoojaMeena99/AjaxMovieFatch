@@ -1,14 +1,33 @@
+.container {
+    border: 1px solid black;
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: plum;
+    padding-left: 100px;
+    /* padding:70px ; */
+}
+
+h1 {
+    color: blueviolet;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 130px;
+}
+
 #search_box {
     height: 50px;
     width: 300px;
     border: solid 1px black;
     float: left;
+
 }
 
 #submit_button {
-    background: #EFEFEF;
+    background-color: azure;
     height: 50px;
-    width: 150px;
+    width: 130px;
     border: solid 1px black;
     color: black;
 }
